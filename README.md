@@ -63,7 +63,7 @@ Click on any active folder link below to access structured notes, graphical Merm
 *   **Instructor Name**: Vishnu Choudhary
 *   **Designation**: Lead Software Engineer & Python Technical Trainer
 *   **Institute Name**:  Vishnu Choudhary 
-*   **Corporate Links**: 🔗https://github.com/vrcjio https://portfolio-ndf2637c7-vrcjios-projects.vercel.app
+*   **Corporate Links**: 🔗https://github.com/vrcjio https://portfolio-vrcjios-projects.vercel.app
 *   **Contact Information**: vrcjio@gmail.com 
   
 *If you are a student enrolled in our program, make sure to fork this repository, create a branch with your Roll Number, and submit your local laboratory files via Pull Requests for code audit assessments.*
