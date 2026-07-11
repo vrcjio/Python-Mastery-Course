@@ -60,12 +60,12 @@ Click on any active folder link below to access structured notes, graphical Merm
 
 ## 👨‍🏫 About the Instructor & Institute
 
-*   **Instructor Name**: [Yahan apna naam likhein, e.g., Amit Sharma]
+*   **Instructor Name**: Vishnu Choudhary
 *   **Designation**: Lead Software Engineer & Python Technical Trainer
-*   **Institute Name**: [Yahan apne coaching institute ka naam likhein]
-*   **Corporate Links**: [🔗 LinkedIn Profile Link] | [🌐 Institute Website Link]
-*   **Contact Information**: [📧 Business Email Address]
-
+*   **Institute Name**:  Vishnu Choudhary 
+*   **Corporate Links**: 🔗https://github.com/vrcjio https://portfolio-ndf2637c7-vrcjios-projects.vercel.app
+*   **Contact Information**: vrcjio@gmail.com 
+  
 *If you are a student enrolled in our program, make sure to fork this repository, create a branch with your Roll Number, and submit your local laboratory files via Pull Requests for code audit assessments.*
 
 ---
